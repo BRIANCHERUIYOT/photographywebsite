@@ -2,7 +2,7 @@
 #### {photography website}, { 18/7/2021}
 #### By **{BRIAN CHERUIYOT}**
 ## Design
-https://drive.google.com/file/d/1TobDstb5qRy3zApR2qNPuHCwconKlfJx/view?usp=sharing
+https://drive.google.com/file/d/1LS_o7xISadiDOE3zOZJzD037h1iBZGhk/view?usp=sharing
 ## Description
 {This is a photographic site where people come to view and see photos}
 ## Setup/Installation Requirements
