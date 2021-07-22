@@ -2,3 +2,9 @@
     background-color: blueviolet;
     color:yellow;
 }
+.nav{
+    color: white;
+}
+a:hover{
+    color:yellowgreen;
+}
