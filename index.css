@@ -6,8 +6,8 @@
     color: white;
 }
 a:hover{
-    color:yellowgreen;
+    color:red;
 }
-ul{
-    color: tomato;
+li{
+    color: rgb(55, 236, 39);
 }
