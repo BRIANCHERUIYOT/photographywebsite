@@ -4,10 +4,15 @@
 }
 .nav{
     color: white;
+
 }
 a:hover{
     color:red;
 }
 li{
     color: rgb(55, 236, 39);
+}
+p{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
 }
