@@ -15,4 +15,13 @@ li{
 p{
     font-weight: 100;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.mountains{ 
+    width: 100%;
+}
+.everest{
+    display: flex;
+    padding-bottom: 20px;
+    width: 60%;
 }
